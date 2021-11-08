@@ -1,0 +1,6 @@
+BLOG_TITLE:=EPHS Tech Tutorials
+BLOG_REMOTE:=hsl:/var/www/hs.rathaus.red
+BLOG_DATE_FORMAT_INDEX:=%F
+BLOG_DATE_FORMAT:=%F
+BLOG_SRC:=src
+BLOG_URL_ROOT:=https://hs.rathaus.red/
