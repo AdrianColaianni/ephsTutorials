@@ -9,7 +9,7 @@ This is a test tutorial
 
 1. Open your web browser
 2. Go to [hs.rathaus.red](https://hs.rathaus.red)
-3. Open the test tutoriald
+3. Open the test tutorial
 4. Profit
 
 ## Contribution
